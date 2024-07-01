@@ -4,7 +4,7 @@ Hi There !!! My name is Onur Mergen .
 Junior Backend Developer
 ------------------------
 
-Since I decided to change my career, I have been working on learning to code for 6 months. I started with backend development and my plan is to continue with frontend, HTML, Android, and Unreal Engine after backend.
+Since I decided to change my career, I have been working on learning to code for 6 months. I started with backend development and my plan is to continue with frontend, HTML, Android and Unreal Engine after backend.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mergenonur@gmail.com](mailto:mergenonur@gmail.com)
